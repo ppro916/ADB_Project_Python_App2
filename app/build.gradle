@@ -67,4 +67,5 @@ dependencies {
     implementation 'androidx.fragment:fragment-ktx:1.6.2'
     implementation 'androidx.usb:usb:1.0.0'
     implementation 'androidx.documentfile:documentfile:1.0.1'
+    
 }
