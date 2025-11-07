@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Termux Control Center</string>
+    
+    <!-- Navigation -->
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_usb_manager">USB Manager</string>
+    <string name="title_storage">Storage</string>
+    <string name="title_network">Network</string>
+    <string name="title_monitor">System Monitor</string>
+    <string name="title_settings">Settings</string>
+    
+    <!-- Common Terms -->
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="refresh">Refresh</string>
+    <string name="scan">Scan</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="about">About</string>
+    
+    <!-- System Info -->
+    <string name="cpu_usage_format">CPU Usage: %d%%</string>
+    <string name="ram_usage_format">RAM Usage: %d%%</string>
+    <string name="ram_info_format">%d MB / %d MB</string>
+    <string name="storage_usage_format">Storage: %.1f GB / %.1f GB</string>
+    <string name="battery_format">Battery: %d%%</string>
+    
+    <!-- Status -->
+    <string name="charging">Charging</string>
+    <string name="discharging">Discharging</string>
+    <string name="full">Full</string>
+    <string name="unknown">Unknown</string>
+    <string name="normal">Normal</string>
+    
+    <!-- Device Info -->
+    <string name="model">Model</string>
+    <string name="brand">Brand</string>
+    <string name="android_version">Android Version</string>
+    <string name="api_level">API Level</string>
+    
+    <!-- USB -->
+    <string name="no_usb_devices">No USB devices found</string>
+    <string name="usb_device_connected">USB device connected</string>
+</resources>
