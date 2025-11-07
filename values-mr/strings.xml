@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">टर्मक्स कंट्रोल सेंटर</string>
+    
+    <!-- Navigation -->
+    <string name="title_dashboard">डॅशबोर्ड</string>
+    <string name="title_usb_manager">USB व्यवस्थापक</string>
+    <string name="title_storage">स्टोरेज</string>
+    <string name="title_network">नेटवर्क</string>
+    <string name="title_monitor">सिस्टम मॉनिटर</string>
+    <string name="title_settings">सेटिंग्ज</string>
+    
+    <!-- Common Terms -->
+    <string name="connected">जोडले</string>
+    <string name="disconnected">डिस्कनेक्ट केले</string>
+    <string name="refresh">रिफ्रेश</string>
+    <string name="scan">स्कॅन</string>
+    <string name="start">सुरू</string>
+    <string name="stop">थांबवा</string>
+    <string name="about">अबाऊट</string>
+    
+    <!-- System Info -->
+    <string name="cpu_usage_format">CPU वापर: %d%%</string>
+    <string name="ram_usage_format">RAM वापर: %d%%</string>
+    <string name="ram_info_format">%d MB / %d MB</string>
+    <string name="storage_usage_format">स्टोरेज: %.1f GB / %.1f GB</string>
+    <string name="battery_format">बॅटरी: %d%%</string>
+    
+    <!-- Status -->
+    <string name="charging">चार्जिंग</string>
+    <string name="discharging">डिस्चार्जिंग</string>
+    <string name="full">पूर्ण</string>
+    <string name="unknown">अज्ञात</string>
+    <string name="normal">सामान्य</string>
+    
+    <!-- Device Info -->
+    <string name="model">मॉडेल</string>
+    <string name="brand">ब्रँड</string>
+    <string name="android_version">Android आवृत्ती</string>
+    <string name="api_level">API स्तर</string>
+    
+    <!-- USB -->
+    <string name="no_usb_devices">कोणतीही USB डिव्हाइस सापडली नाही</string>
+    <string name="usb_device_connected">USB डिव्हाइस जोडली</string>
+</resources>
